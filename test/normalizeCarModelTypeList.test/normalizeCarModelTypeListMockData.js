@@ -454,8 +454,402 @@ let audiCar1999YearA4Model = [
   }
 ];
 
+let audiCar2002YearA4Model = [
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13614",
+    "message": "1,6 Avant Business ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:367"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13615",
+    "message": "1,6 Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:368"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13616",
+    "message": "1,6 ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:369"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13610",
+    "message": "1,8 5VT Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:370"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13612",
+    "message": "1,8 5VT Multitronic ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:371"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13611",
+    "message": "1,8 5VT Multitronic ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:372"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13608",
+    "message": "1,8 5VT Quattro ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:373"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13609",
+    "message": "1,8 5VT Quattro ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:374"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13613",
+    "message": "1,8 5VT ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:375"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13598",
+    "message": "1,9 TDI 100hk Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:376"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13599",
+    "message": "1,9 TDI 100hk ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:377"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13594",
+    "message": "1,9 TDI 130hk Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:378"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13597",
+    "message": "1,9 TDI 130hk Quattro ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:379"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13596",
+    "message": "1,9 TDI 130hk Quattro ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:380"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13595",
+    "message": "1,9 TDI 130hk ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:381"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13601",
+    "message": "2,0 5V Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:382"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13602",
+    "message": "2,0 5V Multitronic ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:383"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13605",
+    "message": "2,0 Multitronic ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:384"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13600",
+    "message": "2,0 ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:385"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13604",
+    "message": "2,4 Multitronic ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:386"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13603",
+    "message": "2,4 Multitronic ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:387"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13607",
+    "message": "2,4 ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:388"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13606",
+    "message": "2,4 ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:389"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13582",
+    "message": "2,5 TDI V6 Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:390"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13585",
+    "message": "2,5 TDI V6 Multitronic ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:391"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13583",
+    "message": "2,5 TDI V6 Multitronic ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:392"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13586",
+    "message": "2,5 TDI V6 Quattro ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:393"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13580",
+    "message": "2,5 TDI V6 Quattro ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:394"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13584",
+    "message": "2,5 TDI V6 ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:395"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13581",
+    "message": "2,5 TDI V6 Tiptronic Quattro ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:396"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13579",
+    "message": "2,5 TDI V6 Tiptronic ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:397"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13587",
+    "message": "3,0 Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:398"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13588",
+    "message": "3,0 Multitronic Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:399"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13589",
+    "message": "3,0 Quattro Avant ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:400"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13590",
+    "message": "3,0 Tiptronic Quattro ( Stasjonsvogn 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:401"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13578",
+    "message": "3,0 V6 Multitronic ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:402"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13593",
+    "message": "3,0 V6 Quattro ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:403"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13591",
+    "message": "3,0 V6 ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:404"
+  },
+  {
+    "id": 0,
+    "questionId": null,
+    "code": "13592",
+    "message": "3,0 V6 Tiptronic Quattro ( Sedan 2 )",
+    "order": null,
+    "questionFieldName": null,
+    "questionLob": null,
+    "$$hashKey": "object:405"
+  }
+];
+
 module.exports = {
   normalizeCarModelTypeList,
   normalizeCarModelTypeItem,
-  audiCar1999YearA4Model
+  audiCar1999YearA4Model,
+  audiCar2002YearA4Model
 };
